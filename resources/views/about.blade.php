@@ -1,5 +1,9 @@
 @extends('layouts.pages')
 
+@section('title')
+ABOUT US
+@endsection
+
 @section('content')
 
   <!-- about section -->

@@ -1,5 +1,9 @@
 @extends('layouts.pages')
 
+@section('title')
+GUARD TEAM
+@endsection
+
 @section('content')
 
 <!-- team section -->
